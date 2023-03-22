@@ -1,0 +1,15 @@
+D:\Уник\КСИС\Lab3\Lab3T4\bin\Debug\Lab3T4.exe.config
+D:\Уник\КСИС\Lab3\Lab3T4\bin\Debug\Lab3T4.exe
+D:\Уник\КСИС\Lab3\Lab3T4\bin\Debug\Lab3T4.pdb
+D:\Уник\КСИС\Lab3\Lab3T4\obj\Debug\Lab3T4.csprojAssemblyReference.cache
+D:\Уник\КСИС\Lab3\Lab3T4\obj\Debug\Lab3T4.csproj.CoreCompileInputs.cache
+D:\Уник\КСИС\Lab3\Lab3T4\obj\Debug\Lab3T4.exe
+D:\Уник\КСИС\Lab3\Lab3T4\obj\Debug\Lab3T4.pdb
+C:\Users\User\Desktop\Лабораторная работа 03\Код\Lab3T4\bin\Debug\Lab3T4.exe.config
+C:\Users\User\Desktop\Лабораторная работа 03\Код\Lab3T4\bin\Debug\Lab3T4.exe
+C:\Users\User\Desktop\Лабораторная работа 03\Код\Lab3T4\bin\Debug\Lab3T4.pdb
+C:\Users\User\Desktop\Лабораторная работа 03\Код\Lab3T4\obj\Debug\Lab3T4.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Лабораторная работа 03\Код\Lab3T4\obj\Debug\Lab3T4.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Лабораторная работа 03\Код\Lab3T4\obj\Debug\Lab3T4.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Лабораторная работа 03\Код\Lab3T4\obj\Debug\Lab3T4.exe
+C:\Users\User\Desktop\Лабораторная работа 03\Код\Lab3T4\obj\Debug\Lab3T4.pdb

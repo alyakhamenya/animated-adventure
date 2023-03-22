@@ -1,0 +1,15 @@
+D:\Уник\КСИС\Lab3\bin\Debug\Lab3.exe.config
+D:\Уник\КСИС\Lab3\bin\Debug\Lab3.exe
+D:\Уник\КСИС\Lab3\bin\Debug\Lab3.pdb
+D:\Уник\КСИС\Lab3\obj\Debug\Lab3.csprojAssemblyReference.cache
+D:\Уник\КСИС\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+D:\Уник\КСИС\Lab3\obj\Debug\Lab3.exe
+D:\Уник\КСИС\Lab3\obj\Debug\Lab3.pdb
+C:\Users\Iliya Averkov\Desktop\Илья\Лабораторные работы за 2 семестр\Лабораторные работы по КСиС\Lab3\bin\Debug\Lab3.exe.config
+C:\Users\Iliya Averkov\Desktop\Илья\Лабораторные работы за 2 семестр\Лабораторные работы по КСиС\Lab3\bin\Debug\Lab3.exe
+C:\Users\Iliya Averkov\Desktop\Илья\Лабораторные работы за 2 семестр\Лабораторные работы по КСиС\Lab3\bin\Debug\Lab3.pdb
+C:\Users\Iliya Averkov\Desktop\Илья\Лабораторные работы за 2 семестр\Лабораторные работы по КСиС\Lab3\obj\Debug\Lab3.csproj.AssemblyReference.cache
+C:\Users\Iliya Averkov\Desktop\Илья\Лабораторные работы за 2 семестр\Лабораторные работы по КСиС\Lab3\obj\Debug\Lab3.csproj.SuggestedBindingRedirects.cache
+C:\Users\Iliya Averkov\Desktop\Илья\Лабораторные работы за 2 семестр\Лабораторные работы по КСиС\Lab3\obj\Debug\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Iliya Averkov\Desktop\Илья\Лабораторные работы за 2 семестр\Лабораторные работы по КСиС\Lab3\obj\Debug\Lab3.exe
+C:\Users\Iliya Averkov\Desktop\Илья\Лабораторные работы за 2 семестр\Лабораторные работы по КСиС\Lab3\obj\Debug\Lab3.pdb

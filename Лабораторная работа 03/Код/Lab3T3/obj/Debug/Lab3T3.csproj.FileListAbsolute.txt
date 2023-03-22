@@ -1,0 +1,7 @@
+D:\Уник\КСИС\Lab3\Lab3T3\bin\Debug\Lab3T3.exe.config
+D:\Уник\КСИС\Lab3\Lab3T3\bin\Debug\Lab3T3.exe
+D:\Уник\КСИС\Lab3\Lab3T3\bin\Debug\Lab3T3.pdb
+D:\Уник\КСИС\Lab3\Lab3T3\obj\Debug\Lab3T3.csprojAssemblyReference.cache
+D:\Уник\КСИС\Lab3\Lab3T3\obj\Debug\Lab3T3.csproj.CoreCompileInputs.cache
+D:\Уник\КСИС\Lab3\Lab3T3\obj\Debug\Lab3T3.exe
+D:\Уник\КСИС\Lab3\Lab3T3\obj\Debug\Lab3T3.pdb
